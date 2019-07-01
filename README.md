@@ -5,3 +5,5 @@ ordinary reading notes with mind map
 ![同期群分析示例图](https://github.com/firewang/lingweilingyu/raw/master/static/img/cohort.jpeg)
 
 ![相对路径](static/img/4P.jpeg)
+
+[链接相对路径](static/img/4P.jpeg)
