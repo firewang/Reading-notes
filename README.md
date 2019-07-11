@@ -1,4 +1,11 @@
 # Reading-notes
+<iframe src="//ghbtns.com/github-btn.html?
+user=firewang&repo=Reading-notes&type=watch&count=true" 
+allowtransparency="true" 
+frameborder="0" scrolling="0" 
+width="110" height="20">
+</iframe>
+
 ordinary reading notes with mind map
 平常的读书笔记,使用脑图总结
 
